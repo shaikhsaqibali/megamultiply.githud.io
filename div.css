@@ -1,0 +1,80 @@
+body{
+	margin: o;
+	padding: o;
+
+}
+.hr-1{
+    padding: 110px;
+    margin-top: -90px;	
+    
+}
+.box1{
+	width: 500px;
+	height: 200px;
+	border: black;
+	margin: 60px;
+	margin-top: -80px;
+	background-color: lightgray;
+	margin-left:100px;
+}
+.box1:hover{
+       transition: .5s ease;
+       background: maroon;
+}
+.box1:hover{
+	color: white;
+}
+
+.box2{
+	width: 500px;
+	height: 200px;
+	margin: 60px;
+	margin-left: 710px;
+	margin-top: -260px;	
+	background-color: lightgray;
+}
+.box2:hover{
+       transition: .5s ease;
+       background: maroon;
+       color: white;
+}
+
+.book-1{
+ margin-left: 10px;
+ font-size: 24px;
+ padding: 20px;
+ font-family: Platino;
+}
+
+.book-2{
+	color: #fff;
+}
+.book-3{
+	color: white;
+	background: crimson;
+	font-weight: bold;
+	text-decoration: none;
+	border: 1px solid #fff;
+	border-radius: 2px;
+	padding: 10px 15px 10px 25px;
+	margin: -30px;
+	padding: 10px;
+	cursor: pointer;
+
+}
+.fore{}
+.intro-1{
+	margin-bottom: 10px;
+	margin-left: 50px;
+	margin-top: -0px;
+}
+.intro-3{	
+	color: white;
+	background: crimson;
+	font-weight: bold;
+	text-decoration: none;
+	border: 1px solid #fff;
+	border-radius: 2px;
+	padding: 10px 15px 10px 25px;
+
+}
